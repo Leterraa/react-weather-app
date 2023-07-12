@@ -12,6 +12,14 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <a
+        href="https://github.com/Leterraa/react-weather-app"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Open-source code
+      </a>{" "}
+      by Valeriia Teplynska;
     </div>
   </StrictMode>
 );
