@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  background-color: rgba(241, 197, 241, 0.703);
+  color: rgb(88, 146, 181);
+  max-width: 550px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+}
